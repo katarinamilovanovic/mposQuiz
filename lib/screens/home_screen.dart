@@ -175,7 +175,11 @@ class _HomeScreenState extends State<HomeScreen> {
                         context,
                         MaterialPageRoute(
                             builder: (context) =>
+<<<<<<< HEAD
                                 const BlogScreen()), // Zamena sa stvarnom stranicom
+=======
+                                BlogScreen()), // Zamena sa stvarnom stranicom
+>>>>>>> 650dbed1c90d7066c6c320d4b4f4acf71dfd09fc
                       );
                     },
                   ),
